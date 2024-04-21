@@ -1,1 +1,1 @@
-# naviation-ai
+# navigation-ai
